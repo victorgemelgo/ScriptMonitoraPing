@@ -14,3 +14,4 @@
       Start-Sleep -Seconds 5 # Ajuste o intervalo conforme necessário
   }
 </pre>
+![image](https://github.com/victorgemelgo/ScriptMonitoraPing/assets/32135865/83927d7f-f00d-4d31-bb44-c7c318889f0d)
